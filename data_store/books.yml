@@ -1,0 +1,85 @@
+---
+- !ruby/object:OopLibrary::Book
+  title: Don Quixote
+  author: Miguel de Cervantes
+- !ruby/object:OopLibrary::Book
+  title: In Search of Lost Time
+  author: Marcel Proust
+- !ruby/object:OopLibrary::Book
+  title: Ulysses
+  author: James Joyce
+- !ruby/object:OopLibrary::Book
+  title: The Odyssey
+  author: Homer
+- !ruby/object:OopLibrary::Book
+  title: War and Peace
+  author: Leo Tolstoy
+- !ruby/object:OopLibrary::Book
+  title: Moby Dick
+  author: Herman Melville
+- !ruby/object:OopLibrary::Book
+  title: The Divine Comedy
+  author: Dante Alighieri
+- !ruby/object:OopLibrary::Book
+  title: Hamlet
+  author: William Shakespeare
+- !ruby/object:OopLibrary::Book
+  title: The Adventures of Huckleberry Finn
+  author: Mark Twain
+- !ruby/object:OopLibrary::Book
+  title: The Great Gatsby
+  author: F. Scott Fitzgerald
+- !ruby/object:OopLibrary::Book
+  title: The Iliad
+  author: Homer
+- !ruby/object:OopLibrary::Book
+  title: One Hundred Years of Solitude
+  author: Gabriel Garcia Marquez
+- !ruby/object:OopLibrary::Book
+  title: Madame Bovary
+  author: Gustave Flaubert
+- !ruby/object:OopLibrary::Book
+  title: Crime and Punishment
+  author: Fyodor Dostoyevsky
+- !ruby/object:OopLibrary::Book
+  title: The Brothers Karamazov
+  author: Fyodor Dostoyevsky
+- !ruby/object:OopLibrary::Book
+  title: Pride and Prejudice
+  author: Jane Austen
+- !ruby/object:OopLibrary::Book
+  title: The Sound and the Fury
+  author: William Faulkner
+- !ruby/object:OopLibrary::Book
+  title: Lolita
+  author: Vladimir Nabokov
+- !ruby/object:OopLibrary::Book
+  title: Nineteen Eighty Four
+  author: George Orwell
+- !ruby/object:OopLibrary::Book
+  title: Alice's Adventures in Wonderland
+  author: Lewis Carroll
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Philosopher’s Stone
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Chamber of Secrets
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Prisoner of Azkaban
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Goblet of Fire
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Order of the Phoenix
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Half-Blood Prince
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: Harry Potter and the Deathly Hallows
+  author: J. K. Rowling
+- !ruby/object:OopLibrary::Book
+  title: The Giver
+  author: Lois Lowry

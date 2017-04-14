@@ -1,0 +1,129 @@
+---
+- !ruby/object:OopLibrary::Order
+  book: The Odyssey
+  reader: Mikhail Mikhaylov
+  date: 2017-04-14 23:38:42.538550000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Crime and Punishment
+  reader: Mikhail Mikhaylov
+  date: 2017-04-14 23:38:42.538553000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Sound and the Fury
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538553000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Nineteen Eighty Four
+  reader: Peter Petrov
+  date: 2017-04-14 23:38:42.538554000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Harry Potter and the Philosopher’s Stone
+  reader: Bogdan Bogdanov
+  date: 2017-04-14 23:38:42.538555000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Odyssey
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538555000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: In Search of Lost Time
+  reader: Andrey Andreev
+  date: 2017-04-14 23:38:42.538556000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Moby Dick
+  reader: Sergey Sergeev
+  date: 2017-04-14 23:38:42.538571000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Ulysses
+  reader: Peter Petrov
+  date: 2017-04-14 23:38:42.538572000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Hamlet
+  reader: Bogdan Bogdanov
+  date: 2017-04-14 23:38:42.538572000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Harry Potter and the Chamber of Secrets
+  reader: Bogdan Bogdanov
+  date: 2017-04-14 23:38:42.538573000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Brothers Karamazov
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538573000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Giver
+  reader: Peter Petrov
+  date: 2017-04-14 23:38:42.538574000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: One Hundred Years of Solitude
+  reader: John Smith
+  date: 2017-04-14 23:38:42.538577000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: War and Peace
+  reader: John Smith
+  date: 2017-04-14 23:38:42.538578000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Lolita
+  reader: Andrey Andreev
+  date: 2017-04-14 23:38:42.538579000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Divine Comedy
+  reader: Anton Antonov
+  date: 2017-04-14 23:38:42.538579000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Harry Potter and the Prisoner of Azkaban
+  reader: Bogdan Bogdanov
+  date: 2017-04-14 23:38:42.538580000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Giver
+  reader: Anton Antonov
+  date: 2017-04-14 23:38:42.538580000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Adventures of Huckleberry Finn
+  reader: Alexander Alexandrov
+  date: 2017-04-14 23:38:42.538581000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: One Hundred Years of Solitude
+  reader: Anton Antonov
+  date: 2017-04-14 23:38:42.538581000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Harry Potter and the Philosopher’s Stone
+  reader: Alexander Alexandrov
+  date: 2017-04-14 23:38:42.538582000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Odyssey
+  reader: Bogdan Bogdanov
+  date: 2017-04-14 23:38:42.538583000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Don Quixote
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538583000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Pride and Prejudice
+  reader: Sergey Sergeev
+  date: 2017-04-14 23:38:42.538584000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Harry Potter and the Philosopher’s Stone
+  reader: Alexander Alexandrov
+  date: 2017-04-14 23:38:42.538584000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Nineteen Eighty Four
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538585000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Odyssey
+  reader: Sergey Sergeev
+  date: 2017-04-14 23:38:42.538585000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Iliad
+  reader: Alexey Alexeev
+  date: 2017-04-14 23:38:42.538586000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: The Giver
+  reader: Andrey Andreev
+  date: 2017-04-14 23:38:42.538586000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: One Hundred Years of Solitude
+  reader: Ivan Ivanov
+  date: 2017-04-14 23:38:42.538587000 +03:00
+- !ruby/object:OopLibrary::Order
+  book: Nineteen Eighty Four
+  reader: Sergey Sergeev
+  date: 2017-04-14 23:38:42.538587000 +03:00
