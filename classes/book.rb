@@ -1,8 +1,8 @@
 module OopLibrary
-	class Book
-		def initialize(title, author)
-			@title = title
-			@author = author
-		end
-	end
+  class Book
+    def initialize(title, author)
+      @title = title
+      @author = author
+    end
+  end
 end
